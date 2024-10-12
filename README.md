@@ -6,6 +6,8 @@
 
 <h3 align="center">A MCA student from India 🇮🇳</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=soumadip-dev&label=Profile%20views&color=0e75b6&style=flat" alt="soumadip-dev" /> </p>
+
 <br/>
 
 <div align="center">
@@ -44,6 +46,7 @@
 <br/>
 <hr/>
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumadip-dev&" alt="soumadip-dev" /></p>
 
 <!-- <h2 align="center">⚡ Stats ⚡</h2> -->
 <!-- <br> -->
