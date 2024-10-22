@@ -1,6 +1,3 @@
-<!-- Visitor Badge -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=soumadip-dev" alt="visitor badge" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Soumadip+Majila!;" />
 </h1>
@@ -44,9 +41,3 @@
 <hr/>
 
 
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumadip-dev"  alt="soumadip-dev" />
-</p>
- <!--
- 
- -->
