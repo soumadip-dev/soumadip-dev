@@ -3,11 +3,13 @@
 </h1>
 
 <h3 align="center">A MCA student from India 🇮🇳</h3>
+
+ <!--
  <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=soumadip-dev&label=Profile%20views&color=0e75b6&style=flat" alt="soumadip-dev" /> 
 </p>
 
-<!--
+
 -->
 
 <br/>
