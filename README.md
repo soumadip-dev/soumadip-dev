@@ -3,7 +3,6 @@
 </h1>
 
 <h3 align="center">🌐 MCA Student from India 🇮🇳</h3>
-
 <p align="center">
     🔭 Currently studying MCA at <strong>BCREC</strong> <br>
     🌱 Focused on mastering <strong>MERN Development</strong>
