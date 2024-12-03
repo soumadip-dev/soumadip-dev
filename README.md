@@ -1,3 +1,4 @@
+<p></p>
 <h1 align="center" style="font-family: Arial, sans-serif; color: #1F669D; margin-bottom: 20px;">
     <img 
         src="https://readme-typing-svg.herokuapp.com?color=1F669D&width=380&height=28&lines=Hi+There!+👋;+I'm+Soumadip+Majila!&center=true&font=bold" 
