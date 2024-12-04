@@ -1,10 +1,3 @@
-<div align="center">
-    <img 
-        src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" 
-        alt="GitHub Banner" 
-        style="width: 100%; max-width: 900px; height: auto; border-radius: 8px; margin-bottom: 20px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);">
-</div>
-
 <h1 align="center" style="font-family: Arial, sans-serif; color: #1F669D; margin-bottom: 20px;">
     <img 
         src="https://readme-typing-svg.herokuapp.com?color=1F669D&width=380&height=28&lines=Hi+There!+👋;+I'm+Soumadip+Majila!&center=true&font=bold" 
@@ -47,7 +40,11 @@
     </a>
 </div>
 
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #1F669D, #FF5722); margin: 40px 0;">
+<div align="center">
+    <img 
+        src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" 
+        alt="Hr" 
+</div>
 
 <h2 align="center" style="font-family: 'Trebuchet MS', sans-serif; color: #1F669D; margin-bottom: 20px;">
     ⚒️ Languages, Frameworks & Tools ⚒️
@@ -65,4 +62,9 @@
 </div>
 
 <br>
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #FF5722, #1F669D); margin: 40px 0;">
+
+<div align="center">
+    <img 
+        src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" 
+        alt="Hr" 
+</div>
