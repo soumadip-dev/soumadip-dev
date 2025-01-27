@@ -30,7 +30,6 @@
     style="margin: 8px; border-radius: 4px;">
 </a>
 
-
 <p><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 ## Technologies
@@ -52,4 +51,3 @@
   </tr>
 </table>
 <p><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-
