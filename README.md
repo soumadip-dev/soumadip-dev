@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me
 
 <p>
-  🔭 Currently pursuing MCA at <strong>BCREC</strong> <br>
+  🎓 Recently completed MCA from <strong>BCREC</strong> <br>
   🌱 Focused on mastering <strong>Full Stack Development</strong> <br>
   💡 Passionate about building modern web applications
 </p>
