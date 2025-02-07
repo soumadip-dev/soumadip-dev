@@ -51,4 +51,3 @@
   </tr>
 </table>
 <p><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-
