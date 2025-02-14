@@ -4,7 +4,6 @@
 
 ## About Me
 
-
 <p style="font-size:14px;">
   🔭 Currently studying MCA at <strong style="color: #1F669D;">BCREC</strong> <br>
   🌱 Focused on mastering <strong style="color: #1F669D;">MERN Development</strong>
