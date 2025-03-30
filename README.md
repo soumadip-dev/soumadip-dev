@@ -56,7 +56,7 @@
     <td><strong>Web Development</strong></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,postgresql"></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb"></td>
   </tr>
   <tr>
     <td><strong>Tools</strong></td>
