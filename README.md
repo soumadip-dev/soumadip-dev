@@ -32,14 +32,14 @@
 <p><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 ## Technologies
-<!-- 
+
 <table>
   <tr>
     <td><strong>Web Development</strong></td>
     <td><strong>Languages</strong></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js"></td>
     <td><img src="https://skillicons.dev/icons?i=java,python&theme=dark"></td>
   </tr>
   <tr>
@@ -49,8 +49,8 @@
     <td><img src="https://skillicons.dev/icons?i=git,vscode,github&theme=dark"></td>
   </tr>
 </table> 
--->
 
+<!-- 
 <table>
   <tr>
     <td><strong>Web Development</strong></td>
@@ -65,4 +65,5 @@
     <td><img src="https://skillicons.dev/icons?i=git,vscode,github&theme=dark"></td>
   </tr>
 </table>
+-->
 <p><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
