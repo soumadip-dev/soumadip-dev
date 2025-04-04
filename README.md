@@ -39,7 +39,7 @@
     <td><strong>Languages</strong></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js"></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"></td>
     <td><img src="https://skillicons.dev/icons?i=java,python&theme=dark"></td>
   </tr>
   <tr>
