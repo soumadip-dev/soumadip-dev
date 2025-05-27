@@ -39,33 +39,15 @@
 
 <p><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-## Technologies
+## Web Technologies
 
-<table>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td><strong>Backend</strong></td>
-    <td><strong>Databases</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind&perline=6&theme=light" width="300" style="margin: 0 auto; display: block;">
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express&perline=4&theme=light" width="100" style="margin: 0 auto; display: block;">
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgresql&perline=3&theme=light" width="100" style="margin: 0 auto; display: block;">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3"><strong>Tools</strong></td>
-  </tr>
-  <tr>
-    <td colspan="3" style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4&theme=light" width="200" style="margin: 0 auto;">
-    </td>
-  </tr>
-</table> 
+<div style="text-align: center;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,nodejs,express,mongodb,postgresql&perline=6&theme=light" width="300" style="margin: 0 auto; display: block;">
+</div>
+
+## Tools
+<div style="text-align: center;">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4&theme=light" width="200" style="margin: 0 auto;">
+</div>
 
 <p><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
