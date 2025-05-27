@@ -10,18 +10,18 @@
 <p><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 ## Contact Me
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <a href="mailto:soumadipmajila@gmail.com">
-    <img 
-      src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" 
-      alt="Gmail Badge" 
-      style="border-radius: 4px; width: 100px;">
-  </a>
+ <a href="mailto:soumadipmajila@gmail.com">
+   <img 
+    src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" 
+    alt="Gmail Badge" 
+    style="margin: 8px; border-radius: 4px;">
+ </a>
+ 
   <a href="https://www.linkedin.com/in/soumadip-majila-dgp/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-      alt="LinkedIn Badge" 
-      style="border-radius: 4px; width: 120px;">
+ <img 
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+    alt="LinkedIn Badge" 
+    style="margin: 8px; border-radius: 4px;">
   </a>
   <a href="https://soumadipmajila.netlify.app/" target="_blank">
     <img 
@@ -33,7 +33,7 @@
     <img 
       src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" 
       alt="Twitter Badge" 
-      style="border-radius: 4px; width: 120px;">
+      style="border-radius: 4px; width: 130px;">
   </a>
 </div>
 
@@ -49,7 +49,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&perline=6&theme=light" width="300" style="margin: 0 auto; display: block;">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind&perline=6&theme=light" width="300" style="margin: 0 auto; display: block;">
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=nodejs,express&perline=4&theme=light" width="100" style="margin: 0 auto; display: block;">
