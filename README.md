@@ -10,7 +10,7 @@
 <p><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 ## Contact Me
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <a href="mailto:soumadipmajila@gmail.com">
     <img 
       src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" 
@@ -21,12 +21,18 @@
     <img 
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn Badge" 
-      style="border-radius: 4px; width: 100px;">
+      style="border-radius: 4px; width: 120px;">
   </a>
   <a href="https://soumadipmajila.netlify.app/" target="_blank">
     <img 
       src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" 
       alt="Portfolio Badge" 
+      style="border-radius: 4px; width: 120px;">
+  </a>
+  <a href="https://x.com/SoumadipMajila" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" 
+      alt="Twitter Badge" 
       style="border-radius: 4px; width: 120px;">
   </a>
 </div>
