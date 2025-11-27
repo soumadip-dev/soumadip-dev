@@ -47,7 +47,7 @@
 
 ## 📈 GitHub Stats
 
-<!--
+
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soumadip-dev&show_icons=true&bg_color=022526&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumadip-dev&layout=compact&langs_count=8&bg_color=022526&title_color=fff&text_color=fff"/>
