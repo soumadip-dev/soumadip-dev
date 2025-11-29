@@ -45,8 +45,9 @@
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 
-## 📈 GitHub Stats
+<!--
 
+## 📈 GitHub Stats
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soumadip-dev&show_icons=true&bg_color=022526&title_color=fff&text_color=fff&icon_color=fff&include_all_commits=true&count_private=true"/>
